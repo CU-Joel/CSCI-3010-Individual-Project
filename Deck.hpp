@@ -9,6 +9,7 @@
 #ifndef Deck_hpp
 #define Deck_hpp
 
+#include <algorithm>
 #include <iostream>
 #include <stdio.h>
 #include <vector>
